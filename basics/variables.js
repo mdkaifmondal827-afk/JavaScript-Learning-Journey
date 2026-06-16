@@ -9,7 +9,7 @@ var accountPassword = "12345"
 accountEmail = "hccc@gmail.com"
 accountPassword = "2134"
 accountCity = "Bengaluru"
-
+ 
 console.log(accountId);
 /*
 Prefernot to use var 
