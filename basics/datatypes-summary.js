@@ -35,3 +35,18 @@ const myFunction = function(){
 }
 
 console.log(typeof heros);
+
+
+
+
+// stack (primitive) , Heap (non - primitive)
+
+let myYoutubename = "Kaifmondaldotcom"
+
+let anothername = myYoutubename
+anothername = "kaifcode"
+
+console.log(myYoutubename);
+
+console.log(anothername);
+
